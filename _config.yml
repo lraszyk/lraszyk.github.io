@@ -1,7 +1,7 @@
 # Site settings
 title: Łukasz Raszyk
 email: lraszyk@gmail.com
-url: https://lraszyk.github.io/
+url: https://raszyk.dev
 description: "With over 13 years in the game development industry, I bring hands-on technical expertise and leadership across mobile and PC platforms. Starting as a Unity Developer and growing quickly into a Team Lead and then CTO, I’ve led highperforming teams through the full lifecycle of game development—prototyping, production, launch, and live ops. My journey has been driven by a passion for building great games and the systems that power them."
 keywords: "senior, unity, developer, net, programmer, lead"
 skills: "Senior Unity Developer | .NET Developer"
@@ -42,7 +42,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/lukasz-raszyk/
   - title: github
-    url: http://github.com/lraszyk
+    url: https://github.com/lraszyk
 
 # Postal address (add as many lines as necessary)
 address:

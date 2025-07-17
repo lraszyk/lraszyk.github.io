@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2004-05-01
+img: pick1.jpg
+alt: image-alt
+project-date: May 2024
+client: Joyteractive
+category: Lead Unity Developer
+description: Pick Puzz invites players into a serene, artistic world of number-guided jigsaw puzzles, where each piece unlocks vibrant HD images and 3D “jigsawscapes” that blend puzzle-solving with creative expression. As you progress through increasingly intricate levels—from simple blocks to elaborate mosaics—it offers a soothing yet mentally engaging escape that’s perfect for unwinding and flexing your brain.
+---
