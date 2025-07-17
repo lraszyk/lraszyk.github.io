@@ -7,5 +7,15 @@ alt: image-alt
 project-date: May 2024
 client: Joyteractive
 category: Lead Unity Developer
-description: Pick Puzz invites players into a serene, artistic world of number-guided jigsaw puzzles, where each piece unlocks vibrant HD images and 3D “jigsawscapes” that blend puzzle-solving with creative expression. As you progress through increasingly intricate levels—from simple blocks to elaborate mosaics—it offers a soothing yet mentally engaging escape that’s perfect for unwinding and flexing your brain.
+platforms: Android, iOS
+description: Pick Puzz is a relaxing yet mentally engaging 3D mosaic puzzle experience where each numbered tile reveals a vivid HD image—from landscapes and classic art to playful coloring styles—as you progress. Its intuitive, number‑guided gameplay adapts from simple block puzzles to intricate jigsawscapes, offering creative expression and calming satisfaction for players of all skill levels.
+details:
+- Planning and estimating game development
+- Organizing and managing team of Unity developers
+- Managing interdisciplinary workflows within the team (dev/art/QA)
+- Prototyping and co-development during the full cycle of production
+- Game client architecture design and co-development
+- AB testing technical design and development
+- Code reviews and assuring high quality of code/architecture
+- Integration of analytics and 3rd party plugins
 ---

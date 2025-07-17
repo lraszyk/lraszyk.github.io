@@ -42,7 +42,8 @@
             <p style="text-align: justify;text-justify: inter-word;">{{ post.description }}</p>
             {% endif %}
             {% if post.details %}
-            <ul class="item-details" style="text-align: left">
+            <p style="text-align: left">Responsibilities:</p>
+            <ul class="item-details" style="text-align: left; margin-top: 0px">
             {% for item in post.details %}
               <li>{{ item }}</li>
             {% endfor %}
