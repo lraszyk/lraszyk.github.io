@@ -62,3 +62,27 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+carousels:
+  - images: 
+    - image: img/portfolio/oly1.jpg
+    - image: img/portfolio/oly2.jpg
+    - image: img/portfolio/oly3.jpg
+  - images: 
+    - image: img/portfolio/blankos1.jpg
+    - image: img/portfolio/blankos2.jpg
+    - image: img/portfolio/blankos3.jpg
+  - images: 
+    - image: img/portfolio/winions1.jpg
+    - image: img/portfolio/winions2.jpg
+    - image: img/portfolio/winions3.jpg
+  - images: 
+    - image: img/portfolio/witcher1.jpg
+    - image: img/portfolio/witcher2.jpg
+    - image: img/portfolio/witcher3.jpg
+  - images: 
+    - image: img/portfolio/pick1.jpg
+  - images: 
+    - image: img/portfolio/jigsaw1.jpg
+  - images: 
+    - image: img/portfolio/inktail1.jpg
