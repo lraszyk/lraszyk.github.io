@@ -86,3 +86,8 @@ carousels:
     - image: img/portfolio/jigsaw1.jpg
   - images: 
     - image: img/portfolio/inktail1.jpg
+  - images: 
+    - image: img/portfolio/brickroyale1.jpg
+  - images: 
+    - image: img/portfolio/marshall1.jpg
+    - image: img/portfolio/marshall2.jpg
